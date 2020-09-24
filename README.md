@@ -1,6 +1,7 @@
-# README
+# Project Requirements
+Click [here](https://drive.google.com/file/d/171sj5hQ7ySkHk5lL_cuFwMiEacElPtlw/view?usp=sharing) to read the project requirements
 
-Brief Testing Guide
+# Brief Testing Guide
 
 1. Clone the repository and perform bundle install
 2. Create database and run migrations
